@@ -90,8 +90,8 @@ Unauthorized use on protected content may violate laws or regulations.
 
 # OUTPUT:
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/964f53f1-cd48-4406-a284-d8fed950f686" />
 
 
-Shows progress using tqdm progress bars
 
-Gracefully stops when the correct password is discovered
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/11240d8e-da3c-4780-991e-95beed44c51d" />
